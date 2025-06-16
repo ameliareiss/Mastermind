@@ -1,7 +1,5 @@
 /*
 Amelia Reiss
-CSCI 3240
-Final Project - Mastermind
 client.c
 
 This client program connects to the server in order to play the game
