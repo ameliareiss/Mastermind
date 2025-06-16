@@ -1,7 +1,4 @@
 /* 
-Amelia Reiss
-CSCI 3240
-Final Project - Mastermind
 server.c
 
 This server program hosts and allows multiple client connections to play
