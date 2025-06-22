@@ -14,15 +14,13 @@ A concurrent, client-server based implementation of the classic board game Maste
 
 To build the project:
 
-1.  Open your terminal.
-2.  Navigate to the directory containing the project files using the `cd` command. For example, if you saved the files in a folder named `mastermind-project` on your Desktop, you would run:
-    ```bash
-    cd ~/Desktop/mastermind-project
-    ```
-3.  Once in the correct directory, compile the source code by running the `make` command:
-    ```bash
-    make
-    ```
+Open your terminal and navigate to the directory where you saved the project files. Then, run the `make` command.
+
+For example:
+```bash
+cd /path/to/your/project/files
+make
+```
 
 This will create two executable files: `client` and `server`.
 
