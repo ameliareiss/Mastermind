@@ -12,8 +12,6 @@ A concurrent, client-server based implementation of the classic board game Maste
 
 ## Building the Project
 
-To build the project:
-
 Open your terminal and navigate to the directory where you saved the project files. Then, run the `make` command.
 
 For example:
